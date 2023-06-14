@@ -1,0 +1,40 @@
+#custom-header .donate img {
+  top: 3px;
+}
+
+#custom-header .search {
+  margin-right: 8px;
+}
+
+#mw-content-text {
+  padding-bottom: 50px;
+}
+
+#mw-content-text .learn-more {
+  background: #0053a3;
+  color: white;
+  border: none;
+  border-radius: 0;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 16px 0;
+  text-align: center;
+}
+
+#mw-content-text .learn-more a {
+  color: white;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+#mw-content-text .learn-more a:not(:hover) {
+  text-decoration: none;
+}
+
+#mw-content-text h2 a:not(:hover),
+#mw-content-text .section-navi a:not(:hover) {
+  text-decoration: none;
+}
